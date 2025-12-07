@@ -32,7 +32,7 @@
     font-weight: bold;
     padding-top: 10px;
     font-size: 24px;
-    color: #333;
+    color: #ffff;
     margin: 0;
 }
 
@@ -106,4 +106,5 @@ canvas {
     align-items: center;
     justify-content:space-around;
     padding: 0 15px;
+
 }
