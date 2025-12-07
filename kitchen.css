@@ -32,7 +32,7 @@
     font-weight: bold;
     padding-top: 10px;
     font-size: 24px;
-    color: #ffff;
+    color: #000000;
     margin: 0;
 }
 
@@ -81,7 +81,7 @@ canvas {
     content: "";
     width: 120px;
     height: 120px;
-    background: #309f71;
+    background: #ffffff;
     border-radius: 50%;
     position: absolute;
 }
@@ -108,3 +108,4 @@ canvas {
     padding: 0 15px;
 
 }
+
